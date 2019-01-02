@@ -1,6 +1,10 @@
 class HelloWorld
 {
+
 	static void welcomeMethod()
+
+	static void method()
+
 	 {
 	System.out.println("Hello");
 }
