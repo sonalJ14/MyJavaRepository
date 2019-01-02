@@ -1,8 +1,11 @@
 class HelloWorld
 {
-
- 	public static void main(String args[])
-	{
-	System.out.println("HelloWorld.......!!");
-	}
+	static void method()
+	 {
+	System.out.println("Hello");
+}
+} public static void main(String args[])
+{
+HelloWorld obj=new HelloWorld();
+obj.mymethod();
 }
